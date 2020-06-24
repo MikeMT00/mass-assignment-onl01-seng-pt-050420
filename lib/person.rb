@@ -6,5 +6,5 @@ class Person
     @name = name
     @birthday = birthday
   end
-  
+
 end
