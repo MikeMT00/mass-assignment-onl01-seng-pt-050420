@@ -2,7 +2,7 @@ class Person
   attr_accessor name:, birthday:
 
   def initialize(name:, birthday:)
-    age = age
-
+    @name = name
+    @birthday = birthday
   end
 end
